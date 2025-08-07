@@ -5,8 +5,12 @@ title = '리뷰의 정석'
 theme = 'PaperMod'
 # --- 페이지네이션 설정 (이 부분이 수정되었습니다) ---
 [pagination]
-  pagerSize = 5 # 한 페이지에 보일 글 개수
-  
+pagerSize = 5 # 한 페이지에 보일 글 개수
+
+# --- 언어 설정 (중요) ---
+defaultContentLanguage = "ko"
+defaultContentLanguageInSubdir = false
+
 # --- 메뉴 설정 ---
 # 블로그 상단에 보일 메뉴들입니다.
 [menu]
