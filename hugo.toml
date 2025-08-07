@@ -66,3 +66,9 @@ defaultContentLanguageInSubdir = false
   # [[params.socialIcons]]
   #   name = "instagram"
   #   url = "https://instagram.com/example"
+ 
+ 
+# --- SEO 강화: 구조화 데이터용 정보 추가 ---
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # 홈페이지 정보에 JSON 형식 추가
