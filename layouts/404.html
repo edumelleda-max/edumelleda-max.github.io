@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div style="text-align: center; padding: 40px 15px; font-family: sans-serif;">
+    <h1 style="font-size: 6rem; margin: 0;">404</h1>
+    <p style="font-size: 1.5rem; margin-top: 0;">엇... 페이지를 찾을 수 없네요. 잠시 후에 접속을 해주세요.</p>
+    <p style="color: #666;">주소가 잘못 입력되었거나, 페이지가 삭제되었을 수 있습니다.</p>
+    
+    <a href="{{ .Site.BaseURL }}" style="display: inline-block; margin-top: 2em; padding: 1em 2em; background-color: #252627; color: #fff; text-decoration: none; border-radius: 5px;">
+        홈페이지로 돌아가기
+    </a>
+
+    <p style="margin-top: 3em; font-size: 0.9rem; color: #888;">
+        문제가 지속될 경우, <a href="mailto:edumelleda-max@example.com">edumelleda@gmail.com</a>으로 문의주세요.
+    </p>
+</div>
+{{ end }}
