@@ -1,18 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:2015/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>리뷰의 정석</title>
+    <link>http://localhost:8049/</link>
+    <description>Recent content on 리뷰의 정석</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 07 Aug 2025 23:18:42 +0900</lastBuildDate>
-    <atom:link href="http://localhost:2015/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Aug 2025 01:24:04 +0900</lastBuildDate>
+    <atom:link href="http://localhost:8049/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>개인정보처리방침 (Privacy Policy)</title>
+      <link>http://localhost:8049/privacy/</link>
+      <pubDate>Fri, 08 Aug 2025 01:24:04 +0900</pubDate>
+      <guid>http://localhost:8049/privacy/</guid>
+      <description>&lt;h2 id=&#34;1-개인정보의-처리-목적&#34;&gt;1. 개인정보의 처리 목적&lt;/h2&gt;
+&lt;p&gt;&amp;lsquo;리뷰의 정석&amp;rsquo;(이하 &amp;lsquo;블로그&amp;rsquo;)은 다음의 목적을 위하여 개인정보를 처리합니다. 처리하고 있는 개인정보는 다음의 목적 이외의 용도로는 이용되지 않으며, 이용 목적이 변경되는 경우에는 별도의 동의를 받는 등 필요한 조치를 이행할 예정입니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Google AdSense:&lt;/strong&gt; 맞춤형 광고 제공&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;댓글:&lt;/strong&gt; 댓글 작성자 식별 및 스팸 방지&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2-쿠키cookie에-의한-개인정보-수집&#34;&gt;2. 쿠키(Cookie)에 의한 개인정보 수집&lt;/h2&gt;
+&lt;p&gt;블로그는 방문자에게 더 나은 서비스를 제공하기 위해 쿠키를 사용합니다. 쿠키는 웹사이트가 사용자의 컴퓨터 브라우저로 보내는 소량의 정보이며, 방문자에 대한 정보를 저장하고 추적하는 데 사용될 수 있습니다. 대부분의 브라우저는 쿠키를 허용하도록 설정되어 있습니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About &#39;리뷰의 정석&#39;</title>
+      <link>http://localhost:8049/about/</link>
+      <pubDate>Fri, 08 Aug 2025 01:00:00 +0900</pubDate>
+      <guid>http://localhost:8049/about/</guid>
+      <description>&lt;h2 id=&#34;안녕하세요-리뷰의-정석입니다&#34;&gt;안녕하세요, &amp;lsquo;리뷰의 정석&amp;rsquo;입니다.&lt;/h2&gt;
+&lt;p&gt;세상에는 너무 많은 선택지가 있습니다.
+넘쳐나는 정보 속에서 &amp;ldquo;대체 뭘 사야 하지?&amp;ldquo;라는 고민, 한 번쯤 해보셨을 겁니다.&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;리뷰의 정석&amp;rsquo;은 바로 제가 했던 그 고민의 시간을 기록해서, 보시는 분들의 고민을 줄여드리기 위해 만들어봤습니다. (사실은 애드센스로 커피값 벌고 싶어서 만들었습니다.)&lt;/p&gt;
+&lt;p&gt;저는 특정 제품을 판매하거나 전문가는 아닙니다.
+이것저것 해보는 열재주가 없지만, 열재주 있는 사람처럼 이것저것 관심을 가집니다.
+이런 제게는 ADHD가 있는지도 모릅니다. 여튼 이것저것 관심을 주는 사람입니다.&lt;/p&gt;
+&lt;p&gt;수많은 상품들 사이에서 길을 잃은 분들을 위해,
+객관적인 정보를 모아 주관적으로 해석해서 &amp;lsquo;(초보인 제 기준)가장 합리적인 선택지&amp;rsquo;를 공유하는 가이드가 되고자 합니다.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:2015/posts/my-first-post/</link>
+      <link>http://localhost:8049/posts/my-first-post/</link>
       <pubDate>Thu, 07 Aug 2025 23:18:42 +0900</pubDate>
-      <guid>http://localhost:2015/posts/my-first-post/</guid>
+      <guid>http://localhost:8049/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;안녕하세요&#34;&gt;안녕하세요!&lt;/h2&gt;
 &lt;p&gt;드디어 제 첫 블로그 글을 작성합니다. 반갑습니다!&lt;/p&gt;</description>
     </item>

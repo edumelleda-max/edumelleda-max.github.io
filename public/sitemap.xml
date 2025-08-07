@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:2015/posts/my-first-post/</loc>
+    <loc>http://localhost:8049/privacy/</loc>
+    <lastmod>2025-08-08T01:24:04+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8049/</loc>
+    <lastmod>2025-08-08T01:24:04+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8049/about/</loc>
+    <lastmod>2025-08-08T01:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:8049/posts/my-first-post/</loc>
     <lastmod>2025-08-07T23:18:42+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:2015/</loc>
+    <loc>http://localhost:8049/posts/</loc>
     <lastmod>2025-08-07T23:18:42+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:2015/posts/</loc>
-    <lastmod>2025-08-07T23:18:42+09:00</lastmod>
+    <loc>http://localhost:8049/categories/</loc>
   </url><url>
-    <loc>http://localhost:2015/categories/</loc>
-  </url><url>
-    <loc>http://localhost:2015/tags/</loc>
+    <loc>http://localhost:8049/tags/</loc>
   </url>
 </urlset>
