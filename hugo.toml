@@ -3,16 +3,20 @@ baseURL = 'https://edumelleda-max.github.io/'
 languageCode = 'ko-kr'
 title = '리뷰의 정석'
 theme = 'PaperMod'
-# --- 페이지네이션 설정 (이 부분이 수정되었습니다) ---
-[pagination]
-pagerSize = 5 # 한 페이지에 보일 글 개수
 
-# --- 언어 설정 (중요) ---
+# --- 페이지네이션 설정 ---
+[pagination]
+  pagerSize = 5
+
+# --- 언어 및 날짜 형식 설정 ---
 defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
 
 # --- 메뉴 설정 ---
-# 블로그 상단에 보일 메뉴들입니다.
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -34,19 +38,31 @@ defaultContentLanguageInSubdir = false
 [params]
   author = "리뷰의 정석"
   description = "초보자가 겪은 장비 구매 스토리. 복잡한 정보 속에서 길을 잃은 당신이 어제의 나의 모습니다. 초보지만 멋모를 때의 명쾌한 해답을 공유합니다."
-  defaultTheme = "auto"  # 방문자 시스템 설정에 따라 라이트/다크 모드 자동 변경
-  ShowReadingTime = true # 글 읽는 시간 표시
-  ShowShareButtons = true # 공유 버튼 표시
-  ShowPostNavLinks = true # 이전/다음 글 링크 표시
+  defaultTheme = "auto"
+  env = "production" # SEO 강화
+  keywords = ["리뷰", "초보자", "장비구매", "제품리뷰", "가이드", "탁구", "야구"]
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true      # '홈 > 글 목록 > 현재 글' 같은 경로 표시
+  ShowCodeCopyButtons = true  # 코드 복사 버튼
+  ShowToc = true              # 글 서두에 목차 표시
+  TocOpen = false             # 목차는 기본적으로 닫혀있게
+
+  # --- 첫 화면 꾸미기 ---
+  [params.homeInfoParams]
+    Title = "리뷰의 정석에 오신 것을 환영합니다!"
+    Content = "복잡한 세상, 초보자 본인의 구매 고민을 담은 블로그입니다."
 
   # --- 소셜 아이콘 설정 ---
-  # 필요 없는 것은 줄을 지우거나, #으로 주석 처리하세요.
+  # 필요 없는 아이콘은 줄 자체를 지우거나, 줄 맨 앞에 #을 붙여서 숨길 수 있습니다.
   [[params.socialIcons]]
     name = "email"
-    url = "edumelleda@gmail.com" # 본인 이메일 주소로 변경
+    url = "edumelleda@gmail.com"
   [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/edumelleda-max" # 본인 GitHub 주소
+    url = "https://github.com/edumelleda-max"
   # [[params.socialIcons]]
   #   name = "instagram"
   #   url = "https://instagram.com/example"
