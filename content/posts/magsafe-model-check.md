@@ -32,3 +32,9 @@ Apple은 실제 전달 전력이 iPhone 모델, 전원 어댑터와 시스템 �
 ## 출처
 
 [공식 안내 원문](https://support.apple.com/en-us/105047) — 확인일 2026-10-22 UTC. 제품별 세부 조건과 최신 변경은 원문에서 확인하세요.
+
+
+## 함께 확인할 글
+
+- [Apple 240W와 Belkin CAB014, 충전 케이블은 무엇으로 고를까](/posts/usb-c-charging-comparison/)
+- [iPhone 15·16을 모니터에 연결하기 전 확인표](/posts/iphone-display-check/)

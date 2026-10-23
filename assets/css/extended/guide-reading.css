@@ -1,0 +1,5 @@
+.post-content { overflow-wrap: anywhere; }
+.post-content table { display:block; width:100%; max-width:100%; overflow-x:auto; }
+.post-content th,.post-content td { min-width:7rem; }
+.post-content a { text-underline-offset:.2em; }
+@media(max-width:480px){.post-title{font-size:30px;line-height:1.4}.post-content{font-size:17px;line-height:1.85}.post-content h2{font-size:24px;line-height:1.5}.post-content table{font-size:15px}.post-content th,.post-content td{padding:8px;min-width:7rem}}

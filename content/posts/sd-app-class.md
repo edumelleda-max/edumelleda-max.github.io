@@ -32,3 +32,9 @@ SD Association의 Application Performance Class는 앱 작업과 관련한 랜�
 ## 출처
 
 [공식 안내 원문](https://www.sdcard.org/developers/sd-standard-overview/application-performance-class/) — 확인일 2026-10-22 UTC. 제품별 세부 조건과 최신 변경은 원문에서 확인하세요.
+
+
+## 함께 확인할 글
+
+- [영상 촬영용 SD카드, 최대 읽기 속도만 보면 놓치는 것](/posts/sd-video-class/)
+- [삼성 T7이 느리다면, 새 케이블을 사기 전 확인할 것](/posts/ssd-cable-checklist/)

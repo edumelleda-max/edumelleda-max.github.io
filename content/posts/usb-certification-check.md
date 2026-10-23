@@ -32,3 +32,9 @@ USB-IF 제품 검색은 인증 프로그램을 통과한 제품을 대상으로 
 ## 출처
 
 [공식 안내 원문](https://www.usb.org/products) — 확인일 2026-10-22 UTC. 제품별 세부 조건과 최신 변경은 원문에서 확인하세요.
+
+
+## 함께 확인할 글
+
+- [240W USB-C 케이블인데 파일 복사가 느리다면? 구매 전 볼 세 가지](/posts/usb-c-cable-guide/)
+- [Apple 240W와 Belkin CAB014, 충전 케이블은 무엇으로 고를까](/posts/usb-c-charging-comparison/)

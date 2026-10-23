@@ -36,3 +36,9 @@ Swift Pair의 알림 연결은 이를 지원하는 기기의 기능입니다. �
 ## 출처
 
 [공식 안내 원문](https://support.microsoft.com/en-us/windows/hardware/bluetooth/pair-a-bluetooth-device-in-windows) — 확인일 2026-10-22 UTC. 제품별 세부 조건과 최신 변경은 원문에서 확인하세요.
+
+
+## 함께 확인할 글
+
+- [듀얼 모니터에서 마우스가 반대편으로 넘어갈 때](/posts/windows-monitor-layout/)
+- [240W USB-C 케이블인데 파일 복사가 느리다면? 구매 전 볼 세 가지](/posts/usb-c-cable-guide/)

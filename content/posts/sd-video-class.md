@@ -35,3 +35,9 @@ SD Association은 영상 녹화에 지속적인 최소 쓰기 성능이 필요�
 ## 출처
 
 [공식 안내 원문](https://www.sdcard.org/developers/sd-standard-overview/speed-class/) — 확인일 2026-10-22 UTC. 제품별 세부 조건과 최신 변경은 원문에서 확인하세요.
+
+
+## 함께 확인할 글
+
+- [A2 microSD를 사면 앱이 빨라질까? 먼저 확인할 네 가지](/posts/sd-app-class/)
+- [삼성 T7이 느리다면, 새 케이블을 사기 전 확인할 것](/posts/ssd-cable-checklist/)

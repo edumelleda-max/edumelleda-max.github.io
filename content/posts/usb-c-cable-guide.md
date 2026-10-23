@@ -71,3 +71,11 @@ Apple의 USB-C iPhone 연결 안내는 외부 화면 연결에 지원되는 케�
 - 구매 판단 문장은 사양에 근거한 편집 의견이며 실사용 평점이 아닙니다.
 - 상품 사진과 구매자 리뷰 사진은 전재 허락을 확인하지 못해 사용하지 않았습니다. 선택 도식은 자체 제작했습니다.
 - 현재 판매·제휴 링크가 없어 이 글에서 발생하는 제휴 수수료는 없습니다. 향후 링크를 추가할 때는 관계 고지와 호스팅·매체 조건을 먼저 확인해야 합니다.
+
+
+## 함께 확인할 글
+
+- [Apple 240W와 Belkin CAB014, 충전 케이블은 무엇으로 고를까](/posts/usb-c-charging-comparison/)
+- [삼성 T7이 느리다면, 새 케이블을 사기 전 확인할 것](/posts/ssd-cable-checklist/)
+- [iPhone 15·16을 모니터에 연결하기 전 확인표](/posts/iphone-display-check/)
+- [USB 인증 목록에서 내 제품이 안 보일 때 확인할 것](/posts/usb-certification-check/)

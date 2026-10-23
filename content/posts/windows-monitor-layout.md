@@ -35,3 +35,9 @@ Win+P의 복제는 같은 내용을 여러 화면에 표시합니다. 확장은 
 ## 출처
 
 [공식 안내 원문](https://support.microsoft.com/en-us/windows/hardware/display-graphics/how-to-use-multiple-monitors-in-windows) — 확인일 2026-10-22 UTC. 제품별 세부 조건과 최신 변경은 원문에서 확인하세요.
+
+
+## 함께 확인할 글
+
+- [iPhone 15·16을 모니터에 연결하기 전 확인표](/posts/iphone-display-check/)
+- [Windows 11에서 Bluetooth 기기가 안 보일 때 확인 순서](/posts/windows-bluetooth-pairing/)
