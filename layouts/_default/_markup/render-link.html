@@ -1,0 +1,9 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $affiliate := or (eq $u.Host "link.coupang.com") (eq $u.Host "www.coupang.com") (eq $u.Host "coupang.com") -}}
+{{- if $affiliate -}}
+  {{- if not .Page.Params.affiliate.enabled -}}{{ errorf "Coupang link requires explicit affiliate review" }}{{- end -}}
+  {{- if not (findRE `^https://link\.coupang\.com/a/[A-Za-z0-9_-]+$` .Destination) -}}{{ errorf "Unreviewed Coupang URL shape" }}{{- end -}}
+  <a href="{{ .Destination | safeURL }}" rel="sponsored nofollow noopener">{{ .Text | safeHTML }}</a>
+{{- else -}}
+  <a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

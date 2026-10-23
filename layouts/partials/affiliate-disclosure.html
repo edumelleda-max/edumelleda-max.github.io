@@ -1,0 +1,10 @@
+{{- with .Params.affiliate -}}
+  {{- if .enabled -}}
+    {{- $a := . -}}
+    {{- range $key := slice "registeredmedia" "hostingsuitable" "disclosureverified" "productmatchverified" "linkstoragepermitted" -}}
+      {{- if ne (index $a $key) true -}}{{ errorf "Affiliate evidence missing: %s" $key }}{{- end -}}
+    {{- end -}}
+    {{- if not .disclosure -}}{{ errorf "Affiliate disclosure is required" }}{{- end -}}
+    <aside class="affiliate-disclosure" aria-label="제휴 관계 안내" style="padding:1rem;border:1px solid currentColor;margin-bottom:1rem">{{ .disclosure }}</aside>
+  {{- end -}}
+{{- end -}}
