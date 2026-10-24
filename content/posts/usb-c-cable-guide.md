@@ -2,7 +2,7 @@
 title: "240W USB-C 케이블인데 파일 복사가 느리다면? 구매 전 볼 세 가지"
 date: 2026-10-22T17:00:00Z
 draft: false
-lastmod: 2026-10-24T00:41:46.082Z
+lastmod: 2026-10-24T00:47:45.828Z
 affiliate:
   enabled: true
   scope: single-informational-example
@@ -14,16 +14,15 @@ affiliate:
 description: "충전 전력, 데이터 전송 규격, 영상 지원을 나눠 확인하세요. 용도별 선택 기준과 케이블 예시를 정리했습니다."
 tags: ["USB-C", "케이블", "구매 가이드", "자료 기반 비교"]
 categories: ["PC·모바일 주변기기"]
-cover:
-  image: "/images/usb-c-purpose-guide.svg"
-  alt: "충전은 W, 파일 복사는 데이터 속도, 모니터는 영상 지원을 각각 확인하는 선택 도식"
 ---
 
-> 제조사 자료를 비교한 글입니다. 직접 시험하지 않았습니다. 제휴링크가 포함돼 있습니다.
+> 제조사 자료를 비교한 글입니다. 직접 시험하지 않았습니다.
 
 240W 케이블인데 파일 전송은 왜 느릴까요? **240W는 충전 전력입니다. 데이터 전송 속도를 뜻하지 않습니다.**
 
 애플 240W USB-C 충전 케이블도 충전은 최대 240W를 지원하지만, 데이터 전송은 USB 2 규격입니다. 외장 SSD를 연결하려면 충전 전력보다 데이터 전송 규격을 먼저 확인해야 합니다. [애플 제품 사양](https://www.apple.com/shop/product/myqt3am/a/240w-usb-c-charge-cable-2-m)
+
+![충전 전력, 데이터 전송 규격, 화면 연결을 구분하는 선택 기준](/images/usb-c-purpose-guide.svg)
 
 ## 충전 전력과 전송 속도는 다릅니다
 
@@ -45,13 +44,13 @@ USB 2 규격의 충전 케이블은 고속 SSD의 성능을 활용하는 데 한
 
 ### 충전과 파일 전송을 함께 쓴다면
 
-**벨킨 INZ004bt2MBK(2m, 블랙, 1개)**는 앞서 설명한 CAB014와 다른 모델입니다. 제조사가 안내한 사양은 **최대 240W 충전, 20Gbps 데이터 전송, 4K 60Hz 영상 출력**입니다. [벨킨 공식 사양](https://www.belkin.com/p/usb4-cable-240w-plus-20gbps/INZ004bt2MBK.html)
+벨킨 **INZ004bt2MBK**(2m, 블랙, 1개)는 앞서 설명한 CAB014와 다른 모델입니다. 제조사가 안내한 사양은 **최대 240W 충전, 20Gbps 데이터 전송, 4K 60Hz 영상 출력**입니다. [벨킨 공식 사양](https://www.belkin.com/p/usb4-cable-240w-plus-20gbps/INZ004bt2MBK.html)
 
 충전만 한다면 이 정도의 데이터 규격은 필요하지 않을 수 있습니다. 파일 전송이나 모니터 연결에도 쓸 계획이라면 기기와 포트가 해당 규격을 지원하는지 확인하세요. 실제 속도와 출력은 연결 조건에 따라 달라집니다.
 
-[쿠팡에서 벨킨 INZ004bt2MBK 2m 옵션 확인하기 — 제휴 링크](https://link.coupang.com/re/AFFSDP?lptag=AF7582278&pageKey=7958307586&itemId=21998349275&vendorItemId=89045901996&traceid=V0-153-c0f9901a546c3789&clickBeacon=f5b90a30-cf3f-11f1-a353-259beed817cb%7E3&requestid=20261024091503731134490810&token=31850C%7CCMG&pt=1&slot=1)
+[쿠팡에서 옵션·가격 확인](https://link.coupang.com/re/AFFSDP?lptag=AF7582278&pageKey=7958307586&itemId=21998349275&vendorItemId=89045901996&traceid=V0-153-c0f9901a546c3789&clickBeacon=f5b90a30-cf3f-11f1-a353-259beed817cb%7E3&requestid=20261024091503731134490810&token=31850C%7CCMG&pt=1&slot=1)
 
-구매 전 모델명과 **2m·블랙·1개** 옵션을 확인하세요. 현재 판매 화면의 옵션과 가격·재고·배송·보증 조건은 확인하지 못했습니다.
+구매 전 모델명과 **2m·블랙·1개** 옵션을 확인하세요. 가격·재고·배송·보증 조건은 판매 페이지에서 확인하세요.
 
 ## 3. 모니터에 연결하려면 영상 지원을 확인하세요
 
