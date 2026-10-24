@@ -2,7 +2,8 @@
 {{- $affiliate := or (eq $u.Host "link.coupang.com") (eq $u.Host "www.coupang.com") (eq $u.Host "coupang.com") -}}
 {{- if $affiliate -}}
   {{- if not .Page.Params.affiliate.enabled -}}{{ errorf "Coupang link requires explicit affiliate review" }}{{- end -}}
-  {{- if not (findRE `^https://link\.coupang\.com/a/[A-Za-z0-9_-]+$` .Destination) -}}{{ errorf "Unreviewed Coupang URL shape" }}{{- end -}}
+  {{- if not (findRE `^https://link\.coupang\.com/(a/[A-Za-z0-9_-]+|re/[A-Za-z0-9_-]+)(\?[^#\s]*)?$` .Destination) -}}{{ errorf "Unreviewed Coupang URL shape" }}{{- end -}}
+  {{- if findRE `(?i)[?&](access.?key|secret|authorization|password)=` .Destination -}}{{ errorf "Credential-like query rejected" }}{{- end -}}
   <a href="{{ .Destination | safeURL }}" rel="sponsored nofollow noopener">{{ .Text | safeHTML }}</a>
 {{- else -}}
   <a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
