@@ -1,5 +1,6 @@
 # --- 기본 설정 ---
 baseURL = 'https://edumelleda-max.github.io/'
+enableRobotsTXT = true
 languageCode = 'ko-kr'
 defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false
@@ -80,3 +81,6 @@ defaultContentLanguageInSubdir = false
   logo = "logo.png"
   logoWidth = "128"
   logoHeight = "128"
+
+[params.assets]
+  favicon = "favicon.png"
