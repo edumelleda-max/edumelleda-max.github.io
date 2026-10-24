@@ -1,0 +1,12 @@
+<aside class="product-card" aria-label="{{ .Get "name" }} 상품 정보">
+  <figure>
+    <img src="{{ .Get "image" | safeURL }}" alt="{{ .Get "alt" }}" width="400" height="400" loading="lazy" decoding="async">
+    <figcaption><a href="{{ .Get "url" | safeURL }}" rel="sponsored nofollow noopener">출처: 상품 상세페이지</a></figcaption>
+  </figure>
+  <div class="product-card-body">
+    <h3>{{ .Get "name" }}</h3>
+    <p>{{ .Get "summary" }}</p>
+    <p class="product-card-source"><a href="{{ .Get "source" | safeURL }}">제조사 사양 확인</a></p>
+    <a class="product-card-button" href="{{ .Get "url" | safeURL }}" rel="sponsored nofollow noopener">쿠팡에서 상품·옵션 확인</a>
+  </div>
+</aside>
