@@ -1,6 +1,7 @@
 <aside class="product-card" aria-label="{{ .Get "name" }} 상품 정보">
   <figure>
-    <img src="{{ .Get "image" | safeURL }}" alt="{{ .Get "alt" }}" width="400" height="400" loading="lazy" decoding="async">
+    <img src="{{ .Get "image" | safeURL }}" alt="{{ .Get "alt" }}" width="400" height="400" loading="lazy" decoding="async" onload="this.nextElementSibling.hidden=true" onerror="this.nextElementSibling.hidden=false">
+    <p class="product-photo-status" role="status">상품 사진을 표시할 수 없어요. 아래 상세페이지에서 확인해요.</p>
     <figcaption><a href="{{ .Get "url" | safeURL }}" rel="sponsored nofollow noopener">출처: 상품 상세페이지</a></figcaption>
   </figure>
   <div class="product-card-body">

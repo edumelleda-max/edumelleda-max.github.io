@@ -2,3 +2,5 @@
 .product-card figure{margin:0;min-width:0}.post-content .product-card img{width:100%;height:auto;aspect-ratio:1;object-fit:contain;background:#fff;border-radius:8px;margin:0}
 .product-card figcaption{font-size:13px;margin-top:10px;line-height:1.6}.product-card-body{min-width:0}.post-content .product-card h3{margin:0 0 12px;font-size:20px;line-height:1.5}.post-content .product-card p{margin:0 0 14px;font-size:16px;line-height:1.7}.product-card-source{font-size:14px!important}.post-content .product-card-button{display:inline-block;padding:10px 16px;border:1px solid var(--primary);border-radius:7px;font-size:15px;line-height:1.6;box-shadow:none;text-decoration:none}
 @media(max-width:560px){.product-card{grid-template-columns:minmax(0,1fr);padding:18px;gap:20px}.product-card figure{max-width:260px;width:100%;margin:0 auto}.product-card-button{text-align:center}}
+.post-content .product-card .product-photo-status{padding:18px;border:1px dashed var(--border);border-radius:8px;color:var(--secondary);font-size:14px;line-height:1.6}
+.product-photo-status[hidden]{display:none}
