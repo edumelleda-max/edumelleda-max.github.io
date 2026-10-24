@@ -1,6 +1,8 @@
 # --- 기본 설정 ---
 baseURL = 'https://edumelleda-max.github.io/'
 languageCode = 'ko-kr'
+defaultContentLanguage = "ko"
+defaultContentLanguageInSubdir = false
 title = '리뷰의 정석'
 theme = 'PaperMod'
 
