@@ -17,7 +17,7 @@ MK345 키보드는 숫자 키패드가 있는 풀사이즈예요. 손목 받침�
 
 {{< product-card name="로지텍코리아 MK345 무선 키보드 마우스 세트, MK345, 단일색상, 일반형" image="https://ads-partners.coupang.com/image1/o3jcWvK1wbvm8Z8vo4zS8ZVyH1fIGgQoDPdvR1IDkOhJJ7vrPCHIn_ouL-8s_2AxLEfVRYqRduVr7H1GIRaLM47sMTR6vSQXyQpkqPl20JGH6-rEr40owzpMS9kD06EZ7yOo3VJXLhPtnBvXQ0xheJnmLhE5VrXtBLXYUXRngU2BUriRAYTJiWG5xwnVVoj9HNo6-bO40K6AQBqOuEKlfeq2u7MaM8ZkBP7IehanfcNXnbtY2nEqylpQRki4xjQ_HQa1BU1jFx3zTR9-kwoXFLmr0YteGlqanok6B-uGOnTV5klpQhLVMRWLGuQ2EWAZYCGXr_-I8wzVON0KUQH8SnNtQ0MM9BobmAujDCBkwi_g8ISOhsJGkUtzOiNEb_YrK0VelVms8ahA9NHpIkIKH9PSlT-LCfKUrN-QYXMYxzieXoDJbMy-Y6EC_ucpS0BrsKrVj_0V2qz5e27QvL7elXcztUn1VJauvsIIQHxDK3oLFyYz_JtP5feRnLuoB8wQy21KTrX4TzLUXqTt_vJtzcZLzPwaYXv_haCz5l5kebkZT9EXeUYRZeJD_BeUYEuhyxWF6t20JmNfyD6NGVEeUQLHT8c=" alt="로지텍코리아 MK345 무선 키보드 마우스 세트, MK345, 단일색상, 일반형 상품 이미지" url="https://link.coupang.com/re/AFFSDP?lptag=AF7582278&subid=rijeongblog&pageKey=9574894026&itemId=19346033835&vendorItemId=94881967522&traceid=V0-153-d0daae8fafb12dc8&clickBeacon=6ed7b1c0-d0ba-11f1-abe4-57edcace84ae%7E3&requestid=20261026062416666173223050&token=31850C%7CMIXED&pt=1&slot=1" source="https://www.logitech.com/en-us/shop/p/mk345-keyboard-mouse-wireless" summary="손목 받침이 있는 풀사이즈 키보드와 오른손용 마우스 세트예요." >}}
 
-### 책상 위 공간을 이렇게 나눠 봐요
+### 오른손 사용 시 책상 배치 예시
 
 ```text
 [풀사이즈 키보드] [마우스 자리]
@@ -26,9 +26,7 @@ MK345 키보드는 숫자 키패드가 있는 풀사이즈예요. 손목 받침�
 [내 책상에 함께 놓이는지 확인]
 ```
 
-오른손으로 쓸 때의 배치 예시예요. 실제 제품 크기나 축척을 나타낸 그림은 아니에요.
-
-사기 전에는 키보드를 놓을 공간뿐 아니라 오른쪽에 마우스를 움직일 자리도 남는지 확인하세요. 이는 책상 배치를 위한 제안이며, 이 제품을 놓고 측정한 결과는 아니에요.
+사기 전에는 키보드를 놓을 공간뿐 아니라 오른쪽에 마우스를 움직일 자리도 남는지 확인하세요.
 
 | 확인할 것 | 선택 기준 |
 | --- | --- |

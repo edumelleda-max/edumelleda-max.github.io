@@ -19,7 +19,7 @@ draft: false
 | 화면 높이는 그대로 두고 카메라 높이만 바꾸고 싶다 | 별도 삼각대를 고려해요. 책상에 삼각대를 놓을 자리도 필요해요. |
 | 본체가 책상 아래나 멀리 있다 | 설치 방식보다 케이블 경로를 먼저 확인해요. |
 
-이 표는 설치 방식을 고르는 기준이에요. 모든 모니터에 클립이 맞는다는 뜻은 아니에요.
+모니터 모양과 클립이 맞는지 먼저 확인하세요.
 
 {{< product-card name="로지텍 C920 HD Pro 웹캠" image="https://ads-partners.coupang.com/image1/O4lRq5reYyemnHJ1O4DBUVy-AL4bMn5Qr-Ke-jmJgL6lgFzcEOt4JAaqPRX2RKx9E9EGDBzI62N5j0Q37MxhslwNP9LuH-bwwpdyrPRpQaO9L8KVtGeH1WVErOtLA1NjDmcU9aIjdTMb4Ujz9ywIrZ01cTpnPjMGV3INB8UBWvGQjuUmEVGYbKvMnD0Ll4Hnu4SZ03b9rsPo2xjREmGOggE0wHxn371xTrwRkK36mCw8OOnZLf315S9vb21owy7FDL9r1dnKLx3cX2LxPk3EYGsAxqSCxTYbdvA3kmZ1yJT1_hSKoTDOd3YMq3cNpVFo_rEIrnZCj5sAwB2vszIoPA1XtEQEFuqBuoF-szIcc6MBS-e5wFpKIBo-6DI-WHHIkbSCd7fvEUzVMtxqFos4qcfMitmBqErECtsIS6IvLItfRsW9GAsK2wIQzlYtWWQLspjDeeDjGaOsfoSjZBG2jIDdpctvIPdEFuoP8GyggEQFdBFCJW2sXcQ7Ouz7rY5ldC_CshUyuKz9NXk43ZbiGczgJr0nwlDWzZtLkDikJlsSBY4PffIbON1zI4Kq" alt="로지텍 C920 HD Pro 웹캠 상품 이미지" url="https://link.coupang.com/re/AFFSDP?lptag=AF7582278&subid=rijeongblog&pageKey=6628649451&itemId=15103204916&vendorItemId=88268918917&traceid=V0-153-2a73e260c5d98232&requestid=20261025023527140282561921&token=31850C%7CMIXED&pt=0&slot=5" source="https://www.logitech.com/assets/45920/8/hd-pro-webcam-c920-quick-start-guide.pdf" summary="USB-A로 연결하며 모니터 클립과 삼각대 연결부가 있어요." >}}
 
